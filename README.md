@@ -20,13 +20,6 @@ and enjoy turning ideas into **real, usable products**.
   <img src="https://skillicons.dev/icons?i=python,javascript,react,fastapi,flask&theme=dark" />
 </p>
 
-### 🤖 AI / GenAI
-- LLMs (LLaMA, Open-source models)
-- RAG (Retrieval-Augmented Generation)
-- LangChain
-- FAISS
-- Prompt Engineering
-
 ### 🧰 Tools & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postgres,mysql&theme=dark" />
