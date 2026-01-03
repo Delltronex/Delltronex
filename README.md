@@ -1,135 +1,106 @@
-<!-- ===================== FEATURE / PROJECT CARDS ===================== -->
+<!-- ===================== TRON GITHUB PROFILE ===================== -->
 
-<h2 align="center">✨ What I Build ✨</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:00ffc6&height=120&section=header&text=WELCOME%20TO%20THE%20GRID&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<div align="center">
+<h1 align="center">👾 KAUSHAL SHUKLA 👾</h1>
+<h3 align="center">⚡ Full Stack • GenAI • AI Engineer ⚡</h3>
 
-<table>
-<tr>
-<td width="33%">
-
-### 👑 Latest Tech
-Stay ahead with cutting-edge frameworks and libraries for a modern web experience.
-
-</td>
-<td width="33%">
-
-### 📱 Responsiveness
-Seamless adaptation across devices for a flawless user experience everywhere.
-
-</td>
-<td width="33%">
-
-### 🎨 Beautiful UX
-Aesthetic designs that blend style with usability for a polished interface.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%">
-
-### 🚀 Performance
-Crafting intuitive and enjoyable interactions that keep users engaged.
-
-</td>
-<td width="33%">
-
-### 🏆 Beautiful UI
-Optimized for speed and efficiency, delivering lightning-fast experiences.
-
-</td>
-<td width="33%">
-
-### 🧠 Smart Systems
-AI-powered logic that makes products intelligent and scalable.
-
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=700&lines=User+Detected+Inside+The+Grid;Building+AI+Powered+Systems;React+%7C+FastAPI+%7C+LLMs;TRON+Mode+Activated..." />
+</p>
 
 ---
 
-<h2 align="center">🧩 Projects Grid</h2>
+## 🟦 SYSTEM STATUS
 
-<div align="center">
+Status       : ONLINE  
+Universe     : TRON  
+Mode         : BUILD | LEARN | DEPLOY  
+Power Level  : ██████████ 100%  
 
-<table>
-<tr>
-<td width="33%">
+---
 
-**Capture My Tweet**  
-🔗 https://cmt.itsvg.in  
-Twitter content capture tool
+## 🔷 ABOUT ME
 
-</td>
-<td width="33%">
+Name     : Kaushal Shukla  
+Role     : Full Stack + GenAI Engineer  
+Location : India 🇮🇳  
+Focus    : AI, LLMs, Web Systems  
+Reality  : The Grid  
 
-**ColPat – Color Palette Tool**  
-🔗 https://colpat.itsvg.in  
-Design-friendly color generator
+---
 
-</td>
-<td width="33%">
+## 🟦 TECH STACK (GRID MODULES)
 
-**JobMatchPro – AI Recruiter**  
-🔗 https://jobmatch.itsvg.in  
-AI-powered hiring assistant
+### ⚙️ CORE SYSTEMS
+![Python](https://img.shields.io/badge/Python-00e5ff?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ffc6?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-00e5ff?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-00ffc6?style=for-the-badge&logo=fastapi&logoColor=black)
 
-</td>
-</tr>
+### 🧠 AI / GENAI
+![LLMs](https://img.shields.io/badge/LLMs-00e5ff?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00ffc6?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00e5ff?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00ffc6?style=for-the-badge)
 
-<tr>
-<td width="33%">
+### 🗄️ DATABASES
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00e5ff?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00ffc6?style=for-the-badge&logo=mysql)
 
-**Visit Count Pro**  
-🔗 https://visitcountpro.netlify.app  
-Website analytics counter
+---
 
-</td>
-<td width="33%">
+## 🟦 PROJECTS (GRID LOGS)
 
-**GPRM – GitHub README Maker**  
-🔗 https://gprm.itsvg.in  
-Profile README generator
+🟦 AI Review Intelligence System  
+• User + Admin dashboards  
+• LLM-based sentiment, summary, actions  
+• React + FastAPI + PostgreSQL  
+• Deployed on Vercel  
 
-</td>
-<td width="33%">
+🟦 Blockchain Healthcare Records  
+• Doctor & Patient roles  
+• Secure blockchain-backed storage  
+• React frontend  
 
-**YTMP – YouTube Music Player**  
-🔗 https://ytmp.itsvg.in  
-Minimal YouTube music player
+🟦 Multi-Document AI Chatbot  
+• LangChain + FAISS  
+• HuggingFace embeddings  
+• Streamlit UI  
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="33%">
+## 🟦 GITHUB ANALYTICS
 
-**YTViral**  
-🔗 https://ytviral.itsvg.in  
-Boost engagement for videos
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Delltronex&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-</td>
-<td width="33%">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delltronex&theme=tokyonight&hide_border=true" />
+</p>
 
-**Pixlyze**  
-🔗 https://pixlyze.itsvg.in  
-Image optimization tool
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delltronex&bg_color=0d1117&color=00e5ff&line=00ffc6&point=ffffff&hide_border=true" />
+</p>
 
-</td>
-<td width="33%">
+---
 
-**YouTube Word Counter**  
-🔗 https://ytword.itsvg.in  
-Analyze YouTube subtitles
+## 🟦 CONNECT TO THE GRID
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Delltronex">
+    <img src="https://img.shields.io/badge/GitHub-00e5ff?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-00ffc6?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffc6,100:00e5ff&height=80&section=footer&text=END%20OF%20LINE&fontSize=22&fontColor=000000" />
+</p>
 
-<!-- ===================== END ===================== -->
+<!-- ===================== END OF GRID ===================== -->
