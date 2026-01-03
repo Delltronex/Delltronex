@@ -74,17 +74,20 @@ Reality  : The Grid
 
 ## 🟦 GITHUB ANALYTICS
 
+## 🟦 GITHUB ANALYTICS
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Delltronex&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delltronex&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delltronex&bg_color=0d1117&color=00e5ff&line=00ffc6&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
 </p>
+
 
 ---
 
