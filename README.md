@@ -62,6 +62,5 @@ I’m an **Information Technology graduate** passionate about building
   </a>
 </p>
 
-<p align="center">
-  <b>Open to internships, fresher roles & AI-focused opportunities 🚀</b>
+
 </p>
