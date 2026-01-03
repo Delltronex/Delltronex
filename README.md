@@ -19,7 +19,7 @@ I’m an **Information Technology graduate** passionate about building
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,node.js,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,tensorflow&theme=dark" />
 </p>
 
 <p>
