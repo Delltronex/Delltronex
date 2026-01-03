@@ -1,63 +1,148 @@
-<!-- ===================== TRON GRID :: GITHUB PROFILE ===================== -->
-
+<!-- ===================== -->
+<!-- Animated Cyber Header -->
+<!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:00ffc6,100:00e5ff&height=140&section=header&text=WELCOME%20TO%20THE%20GRID&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Kaushal+Shukla;AI+%7C+Full+Stack+Engineer;GenAI+%7C+LLMs+%7C+RAG+%7C+FastAPI;Building+Modern+AI+Products" />
 </p>
 
-<h1 align="center">👾 KAUSHAL SHUKLA 👾</h1>
-<h3 align="center">⚡ Full Stack • GenAI • AI Engineer ⚡</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KaushalShukla&label=Profile+Views&color=00e5ff&style=flat" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=800&lines=USER+AUTHENTICATED+✔;ENTERING+THE+TRON+GRID...;BUILDING+AI-POWERED+SYSTEMS;REACT+%7C+FASTAPI+%7C+LLMs;GENAI+MODE+ACTIVATED+⚡" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:004D66&height=140&section=header" />
 </p>
 
 ---
 
-## 🧬 GRID SYSTEM STATUS
+## 👨‍💻 About Me
+<p>
+I’m an <b>Information Technology graduate</b> focused on building
+<b>AI-powered web applications</b> and <b>scalable full-stack systems</b>.
+I enjoy working with <b>LLMs, RAG pipelines</b>, and clean backend architectures.
+</p>
 
-```txt
-STATUS        : ONLINE
-ENVIRONMENT   : TRON GRID
-MODE          : BUILD | TRAIN | DEPLOY
-ENERGY LEVEL  : ██████████ 100%
-REALITY       : DIGITAL
-🧠 IDENTITY MODULE
-txt
-Copy code
-NAME      : Kaushal Shukla
-ROLE      : Full Stack + GenAI Engineer
-LOCATION  : India 🇮🇳
-FOCUS     : AI Systems • LLMs • Scalable Web
-MISSION   : Build intelligent systems for the real world
-⚙️ CORE TECH MATRIX
-🧩 PROGRAMMING
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,javascript,react,fastapi,html,css&theme=dark" /> </p>
-🧠 GENAI / AI
-<p align="center"> <img src="https://img.shields.io/badge/LLMs-00e5ff?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangChain-00ffc6?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-00e5ff?style=for-the-badge" /> <img src="https://img.shields.io/badge/FAISS-00ffc6?style=for-the-badge" /> </p>
-🗄️ DATABASES & TOOLS
-<p align="center"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,docker,aws&theme=dark" /> </p>
-🗂️ GRID PROJECT LOGS
-🔹 AI Review Intelligence Platform
-txt
-Copy code
-• Dual Dashboards (User + Admin)
-• LLM-based Sentiment, Summary, Actions
-• React + FastAPI + PostgreSQL
-• Deployed on Vercel
-🔹 Blockchain Healthcare Records
-txt
-Copy code
-• Doctor & Patient Role-Based Access
-• Secure Blockchain-backed Storage
-• React Frontend + Smart Contracts
-🔹 Multi-Document AI Chatbot
-txt
-Copy code
-• LangChain + FAISS Vector Search
-• HuggingFace Embeddings
-• Streamlit Interface
-📊 GITHUB GRID ANALYTICS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Delltronex&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=00ffc6" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delltronex&theme=react&hide_border=true&background=0D1117&ring=00e5ff&fire=00ffc6" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delltronex&bg_color=0d1117&color=00e5ff&line=00ffc6&point=ffffff&hide_border=true" /> </p>
-🌐 CONNECT TO THE GRID
-<p align="center"> <a href="https://github.com/Delltronex"> <img src="https://img.shields.io/badge/GitHub-00e5ff?style=for-the-badge&logo=github&logoColor=black" /> </a> <a href="https://www.linkedin.com"> <img src="https://img.shields.io/badge/LinkedIn-00ffc6?style=for-the-badge&logo=linkedin&logoColor=black" /> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffc6,100:00e5ff&height=100&section=footer&text=END%20OF%20LINE&fontSize=22&fontColor=000000" /> </p> <!-- ===================== END OF TRON GRID ===================== -->
+- 🎓 B.E. Information Technology — Mumbai University  
+- 🤖 Focus: **GenAI, LLMs, RAG, AI Agents**  
+- 💻 Full Stack: **React + FastAPI**  
+- 🌱 Learning: **System Design & MLOps**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,fastapi,flask,tensorflow,docker,aws,git,github,postgres,mysql&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-00E5FF?style=flat-square">
+  <img src="https://img.shields.io/badge/RAG-FF9800?style=flat-square">
+  <img src="https://img.shields.io/badge/LangChain-0A2A2A?style=flat-square">
+  <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C4DFF?style=flat-square">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- ===================== -->
+<!-- Animated Project Cards -->
+<!-- ===================== -->
+
+### 📄 PDF Chat Web App (RAG + LLM)
+> AI-powered system to chat with PDF documents using **LLaMA-2 + FAISS**, with multilingual support.
+
+**Tech:** Python · LangChain · FAISS · Streamlit · Google Translator API  
+
+<p>
+  <a href="https://github.com/KaushalShukla/pdf-chat-app">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://pdf-chat-demo.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🏥 AI Healthcare Platform
+> AI-driven healthcare platform providing disease prediction and medical insights.
+
+**Tech:** Python · Hugging Face Models · HTML · CSS · JavaScript  
+
+<p>
+  <a href="https://github.com/KaushalShukla/ai-healthcare-platform">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://ai-healthcare-demo.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+---
+
+### 🔐 Fake Website Detector
+> Machine learning system detecting fraudulent websites with **92% accuracy**.
+
+**Tech:** Python · Pandas · HTML · CSS · JavaScript  
+
+<p>
+  <a href="https://github.com/KaushalShukla/fake-website-detector">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://fake-site-demo.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 💼 Experience
+
+**Web Application Development Intern**  
+**Reknot Solutions Pvt. Ltd. (Remote)**  
+_March 2022 – June 2022_
+
+- Built influencer portal for **100+ users**
+- Developed responsive UI using **React & Tailwind**
+- Reduced UI issues by **30%**
+- Collaborated using **Git & GitHub**
+- Deployed applications on production servers
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaushalShukla&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaushalShukla&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🐍 Contribution Animation
+<p align="center">
+  <img src="https://github.com/KaushalShukla/KaushalShukla/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/kaush-shuk">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:kaushalshukla912@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D66,100:00E5FF&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <b>“Build clean systems. Ship real value.”</b>
+</p>
