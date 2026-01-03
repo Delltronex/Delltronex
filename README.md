@@ -8,9 +8,6 @@
 I’m an **Information Technology graduate** passionate about building  
 **AI-powered applications** and **scalable full-stack systems**.
 
-I work mainly with **LLMs, RAG pipelines**, and modern **backend APIs**,  
-and enjoy turning ideas into **real, usable products**.
-
 ---
 
 ## 🛠️ Tech Stack
