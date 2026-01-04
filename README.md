@@ -14,7 +14,7 @@ I’m an **Information Technology graduate** passionate about building
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
