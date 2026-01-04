@@ -56,13 +56,12 @@ I’m an **Information Technology graduate** passionate about building
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/kaush-shuk">
-    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <a href="https://linkedin.com/in/kaush-shuk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:kaushalshukla912@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-
-</p>
