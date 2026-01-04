@@ -42,7 +42,7 @@ I’m an **Information Technology graduate** passionate about building
 
 ### 🧰 Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,render,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,Kubernetes,aws,git,github&theme=dark" />
 </p>
 
 ### 🗄️ Databases
