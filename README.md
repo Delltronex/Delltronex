@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 Introduction
+## 👋 Intro
 I’m an **Information Technology graduate** passionate about building  
 **AI-powered applications** and **scalable full-stack systems**.
 
@@ -47,7 +47,7 @@ I’m an **Information Technology graduate** passionate about building
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 </p>
 
 
